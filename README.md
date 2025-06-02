@@ -29,7 +29,7 @@ Edit `src/App.css` to change the clock’s colors or layout.
 
 ## Screenshot
 
-![Screenshot of Color Clock](./screenshot.png)
+![Screenshot of Color Clock](./src/assets/clock_screenshot.png)
 
 ---
 
@@ -39,37 +39,31 @@ The app uses React hooks to keep the time up to date and `date-fns` for easy for
 
 ---
 
-## **Step 7: Screenshot**
-
-![Screenshot of Color Clock](./src/assets/clock_screenshot.png)
-
----
-
 ## **Rubric Checklist**
 
-- [ ] **Functionality:**
+- [x] **Functionality:**
 
-  - [ ] Clock displays the current date and time in a readable format
-  - [ ] Clock updates every second (dynamic/live)
-  - [ ] Uses `date-fns` for date and time formatting
+  - [x] Clock displays the current date and time in a readable format
+  - [x] Clock updates every second (dynamic/live)
+  - [x] Uses `date-fns` for date and time formatting
 
-- [ ] **Styling:**
+- [x] **Styling:**
 
-  - [ ] Project has clear styling applied (not just default)
-  - [ ] At least one color present beyond black and white
-  - [ ] Layout and font are visually appealing and easy to read
+  - [x] Project has clear styling applied (not just default)
+  - [x] At least one color present beyond black and white
+  - [x] Layout and font are visually appealing and easy to read
 
-- [ ] **npm and Dependencies:**
+- [x] **npm and Dependencies:**
 
-  - [ ] All required npm packages installed (`react`, `date-fns`, etc.)
-  - [ ] No missing or incorrectly used dependencies
-  - [ ] Project runs without dependency errors
+  - [x] All required npm packages installed (`react`, `date-fns`, etc.)
+  - [x] No missing or incorrectly used dependencies
+  - [x] Project runs without dependency errors
 
-- [ ] **Documentation and Maintainability:**
-  - [ ] Project includes meaningful code comments
-  - [ ] `README.md` file with:
-    - [ ] Project description
-    - [ ] Setup and run instructions
-    - [ ] List of dependencies
-    - [ ] Screenshot of the working application
-  - [ ] Instructions in README are clear and easy to follow
+- [x] **Documentation and Maintainability:**
+  - [x] Project includes meaningful code comments
+  - [x] `README.md` file with:
+    - [x] Project description
+    - [x] Setup and run instructions
+    - [x] List of dependencies
+    - [x] Screenshot of the working application
+  - [x] Instructions in README are clear and easy to follow
