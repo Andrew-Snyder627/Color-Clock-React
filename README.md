@@ -41,7 +41,7 @@ The app uses React hooks to keep the time up to date and `date-fns` for easy for
 
 ## **Step 7: Screenshot**
 
-Once your app is running, **take a screenshot** showing the clock with color. Save as `screenshot.png` in your project root for your README.
+![Screenshot of Color Clock](./src/assets/clock_screenshot.png)
 
 ---
 
